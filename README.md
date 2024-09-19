@@ -17,7 +17,7 @@ Welcome to the Password Reset Project! This repository contains the source code 
 
 To start using the password reset project, follow these steps:
 
-1. **Clone the Repository**: `git clone https://github.com/your-username/password-reset-project.git`
+1. **Clone the Repository**: `https://github.com/sarakhi20/nodejs-task4.git`
 
 2. **Install Dependencies**: Run `npm install`.
 
